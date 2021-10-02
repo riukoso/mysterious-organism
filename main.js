@@ -51,7 +51,7 @@ const makingInstances = (numInstances) => {
   return instances;
 };
 
-const pAequor = makingInstances(5);
+const pAequor = makingInstances(30); //pAequor contains 30 instances of pAequor that can survive
 
 // find the two most related instances of pAequor
 let per = 0;
